@@ -4,9 +4,9 @@
  * get_flags
  * Calculates active flags
  * @format:
- * Formatted string in which to print the arguments
+ * Formatted string in which to print arguments
  * @i:
- * take a parameter.
+ * Take a parameter.
  * Return: Flags:
  */
 
